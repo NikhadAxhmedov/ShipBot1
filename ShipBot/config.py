@@ -1,5 +1,5 @@
 groups_dict = {
-    -1001384861110: "expresses"
+    -1001771876516: "expresses"
 }
 log_file = "logs.log"
 database_file = "Couples.sqlite"

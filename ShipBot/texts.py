@@ -1,19 +1,19 @@
-NEW_COUPLE_STRING = "Прекрасный момент, чтобы сделать вас парой:\n" \
+NEW_COUPLE_STRING = "**Birilerinde aşk tomurcuğu görüyorum** 😋🥰:\n" \
                     "@{} + @{} = 💛"
-OLD_COUPLE_STRING = "Момент уже прошел, вот выбранная пара:\n" \
+OLD_COUPLE_STRING = "Günün çiftleri:\n" \
                     "{} + {} = 💛\n\n" \
-                    "Следующий момент наступит {}"
+                    "Bir sonraki an gelecek {}"
 
-new_user = "{} приваа!🐸"
-left_user = "Прощай("
-no_username = "Привет, {}, пропиши, пожалуйста, username в настройках телеграм"
+new_user = "{} Merhaba!🐸"
+left_user = "Bb("
+no_username = "ben bir ship, {}, botuyum, lütfen, username Beni gruplarda kullanın"
 
-removed_user = "@{} успешно удален из моего списка"
-remove_user_no_reply = "Вы должны ответить на сообщение того человека которого нужно убрать"
+removed_user = "@{} listemden başarıyla kaldırıldı"
+remove_user_no_reply = "Kaldırmak istediğiniz kişinin mesajına cevap vermelisiniz"
 
-mystat = "Вы выбраны {} раз"
-allstat = "Лучшие любовники:"
+mystat = "sen seçildin {} раз"
+allstat = "en iyi aşıklar:"
 allstat_user = "\n{} — {}"
-no_allstat = "Моментов еще не было, воспользуйтесь /makecouple@MakeCoupleBot"
+no_allstat = "henüz ship yok yenisini oluşturmak için /makecouple@MajesteShipBot"
 
-unknown_chat = "Hello, i dont know your chat to make couples. Please write to my creator: @riZZZhik"
+unknown_chat = "Merhaba, çift yapmak için sohbetinizi bilmiyorum. Lütfen Sahibime yazın: @MajesteSahip"

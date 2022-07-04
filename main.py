@@ -3,10 +3,10 @@ from aiogram import Bot, Dispatcher, executor
 
 # Import ShipBot module
 import ShipBot
-from config import API_TOKEN
+from config import BOT_TOKEN
 
 # Initialize ShipBot and dispatcher
-bot = Bot(token=API_TOKEN)
+bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher(bot)
 
 # Initialize handlers

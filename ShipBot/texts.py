@@ -1,19 +1,17 @@
-NEW_COUPLE_STRING = "**Birilerinde aşk tomurcuğu görüyorum** 😋🥰:\n" \
+NEW_COUPLE_STRING = "**Birində bir sevgi qönçəsi görürəm** 😋🥰:\n" \
                     "@{} + @{} = 💛"
-OLD_COUPLE_STRING = "Günün çiftleri:\n" \
+OLD_COUPLE_STRING = "günün cütləri:\n" \
                     "{} + {} = 💛\n\n" \
-                    "Bir sonraki an gelecek {}"
+                    "Növbəti an gələcək {}"
 
-new_user = "{} Merhaba!🐸"
+new_user = "{} Salam!🐸"
 left_user = "Bb("
-no_username = "ben bir ship, {}, botuyum, lütfen, username Beni gruplarda kullanın"
+no_username = "Mən bir ship , {}, botuyam, Zəhmət olmasa, istifadəçi adı Məni qruplarda işlədin"
 
 removed_user = "@{} listemden başarıyla kaldırıldı"
-remove_user_no_reply = "Kaldırmak istediğiniz kişinin mesajına cevap vermelisiniz"
+remove_user_no_reply = "Almaq üçün istədiyiniz şəxsin mesajına cavab verin "
 
 mystat = "sen seçildin {} раз"
 allstat = "en iyi aşıklar:"
-allstat_user = "\n{} — {}"
-no_allstat = "henüz ship yok yenisini oluşturmak için /makecouple@MajesteShipBot"
-
-unknown_chat = "Merhaba, çift yapmak için sohbetinizi bilmiyorum. Lütfen Sahibime yazın: @MajesteSahip"
+allstat_user = "\n{} — {}"henüz ship yok yenisini oluşturmak için /makecouple@ShipAzRobot"
+unknown_chat = "Salam, Mən sizin cütlük yaratmaq üçün sohbətinizi bilmirəm. Xahiş edirəm sahibimə yazın"
